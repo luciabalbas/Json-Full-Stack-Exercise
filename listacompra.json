@@ -1,0 +1,240 @@
+{
+    "supermercado1": {
+        "nombre": "mercadona", 
+        "dirección": "Av. de Andalucía, s/n, 41007 Sevilla",
+        "plus code": "92QQ+7R Sevilla",
+        "productos": [
+            {
+                "nombre": "champú",
+                "descripción": "champú para el cabello",
+                "oferta": "2x1",
+                "vigencia": "30/abril",
+                "precio": 2.10,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "suavizante",
+                "descipcion": "suavizante para el cabello",
+                "oferta": "2º unidad 1/2 precio",
+                "vigencia": "4/mayo",
+                "precio": 3.15,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "gel",
+                "descipcion": "gel de ducha",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.10,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "detergente",
+                "descipcion": "detergente para ropa",
+                "oferta": "pack ahorro",
+                "vigencia": "4/mayo",
+                "precio": 3.15,
+                "unidades": 1,
+                "adquirido": true
+            },
+            {
+                "nombre": "suavizante ropa",
+                "descipcion": "suavizante para ropa",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 2.78,
+                "unidades": 1,
+                "adquirido": true
+            },
+            {
+                "nombre": "pasta de dientes",
+                "descipcion": "dentrífico colgate",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 2.26,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "papel higiénico",
+                "descipcion": "pack de 24 rollos de papel higiénico",
+                "oferta": "descuento 10%",
+                "vigencia": "9/mayo",
+                "precio": 5.98,
+                "unidades": 1,
+                "adquirido": false
+            }
+        ]
+    },
+    "supermercado2": {
+        "nombre": "Supermercados Dia",
+        "dirección": "C. Marqués de Pickman, 15, 41005 Sevilla",
+        "plus code": "92JP+JH Sevilla",
+        "productos": [
+            {
+                "nombre": "leche",
+                "descipcion": "pack de 6 litros de leche",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 5.46,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "cebollas",
+                "descipcion": "cebolla dulce malla 1kg",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 2.39,
+                "unidades": 2,
+                "adquirido": true
+            },
+            {
+                "nombre": "bacon",
+                "descipcion": "tiras de bacon pack de 2",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.75,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "nata para cocinar",
+                "descipcion": "nata para cocinar envase 500ml",
+                "oferta": "rebajado",
+                "vigencia": "9/mayo",
+                "precio": 2.65,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "queso rallado",
+                "descipcion": "ques rallado 4 quesos",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 2.45,
+                "unidades": 3,
+                "adquirido": false
+            },
+            {
+                "nombre": "jamón york",
+                "descipcion": "paquete de jamón cocido",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.50,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "tomate frito",
+                "descipcion": "pacl de 3 unidades de tomate frito",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.30,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "huevos",
+                "descipcion": "docena de huevos",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 2.02,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "café",
+                "descipcion": "café soluble",
+                "oferta": "2x1",
+                "vigencia": "29/abril",
+                "precio": 2.55,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "queso en lonchas",
+                "descipcion": "paquete de queso en lonchas",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 2.05,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "coca-cola",
+                "descipcion": "pack de 12 latas",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 9.84,
+                "unidades": 2,
+                "adquirido": false
+            },
+            {
+                "nombre": "pan",
+                "descipcion": "barra de pan",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 0.26,
+                "unidades": 2,
+                "adquirido": false
+            }
+        ]
+    },
+    "supermercado3": {
+        "nombre": "carrefour",
+        "direccion": "C. Felipe II, 12, 41013 Sevilla",
+        "plus code": "92C8+MQ Sevilla",
+        "productos": [
+            {
+                "nombre": "pollo",
+                "descipcion": "pechuga de pollo",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 3.54,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "carne picada",
+                "descipcion": "preparado de carne picada mixta",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 5.95,
+                "unidades": 1,
+                "adquirido": true
+            },
+            {
+                "nombre": "arroz",
+                "descipcion": "arroz largo 1kg",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.30,
+                "unidades": 1,
+                "adquirido": true
+            },
+            {
+                "nombre": "azúcar",
+                "descipcion": "azúcar blanco",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.35,
+                "unidades": 1,
+                "adquirido": false
+            },
+            {
+                "nombre": "macarrones",
+                "descipcion": "macarrones 1kg",
+                "oferta": "",
+                "vigencia": "",
+                "precio": 1.24,
+                "unidades": 2,
+                "adquirido": false
+            }
+        ]
+    }
+
+}
