@@ -11,7 +11,8 @@
                 "vigencia": "30/abril",
                 "precio": 2.10,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "suavizante",
@@ -20,7 +21,8 @@
                 "vigencia": "4/mayo",
                 "precio": 3.15,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "gel",
@@ -29,7 +31,8 @@
                 "vigencia": "",
                 "precio": 1.10,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "detergente",
@@ -38,7 +41,8 @@
                 "vigencia": "4/mayo",
                 "precio": 3.15,
                 "unidades": 1,
-                "adquirido": true
+                "adquirido": true,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "suavizante ropa",
@@ -47,7 +51,8 @@
                 "vigencia": "",
                 "precio": 2.78,
                 "unidades": 1,
-                "adquirido": true
+                "adquirido": true,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "pasta de dientes",
@@ -56,7 +61,8 @@
                 "vigencia": "",
                 "precio": 2.26,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "papel higiénico",
@@ -65,7 +71,8 @@
                 "vigencia": "9/mayo",
                 "precio": 5.98,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             }
         ]
     },
@@ -81,7 +88,8 @@
                 "vigencia": "",
                 "precio": 5.46,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "cebollas",
@@ -90,7 +98,8 @@
                 "vigencia": "",
                 "precio": 2.39,
                 "unidades": 2,
-                "adquirido": true
+                "adquirido": true,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "bacon",
@@ -99,7 +108,8 @@
                 "vigencia": "",
                 "precio": 1.75,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "nata para cocinar",
@@ -108,7 +118,8 @@
                 "vigencia": "9/mayo",
                 "precio": 2.65,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "queso rallado",
@@ -117,7 +128,8 @@
                 "vigencia": "",
                 "precio": 2.45,
                 "unidades": 3,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "jamón york",
@@ -126,16 +138,18 @@
                 "vigencia": "",
                 "precio": 1.50,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "tomate frito",
-                "descipcion": "pacl de 3 unidades de tomate frito",
+                "descipcion": "pack de 3 unidades de tomate frito",
                 "oferta": "",
                 "vigencia": "",
                 "precio": 1.30,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "huevos",
@@ -144,7 +158,8 @@
                 "vigencia": "",
                 "precio": 2.02,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "café",
@@ -153,7 +168,8 @@
                 "vigencia": "29/abril",
                 "precio": 2.55,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "queso en lonchas",
@@ -162,7 +178,8 @@
                 "vigencia": "",
                 "precio": 2.05,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "coca-cola",
@@ -171,7 +188,8 @@
                 "vigencia": "",
                 "precio": 9.84,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "pan",
@@ -180,7 +198,8 @@
                 "vigencia": "",
                 "precio": 0.26,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             }
         ]
     },
@@ -196,7 +215,8 @@
                 "vigencia": "",
                 "precio": 3.54,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": false
             },
             {
                 "nombre": "carne picada",
@@ -205,7 +225,8 @@
                 "vigencia": "",
                 "precio": 5.95,
                 "unidades": 1,
-                "adquirido": true
+                "adquirido": true,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "arroz",
@@ -214,7 +235,8 @@
                 "vigencia": "",
                 "precio": 1.30,
                 "unidades": 1,
-                "adquirido": true
+                "adquirido": true,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "azúcar",
@@ -223,7 +245,8 @@
                 "vigencia": "",
                 "precio": 1.35,
                 "unidades": 1,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             },
             {
                 "nombre": "macarrones",
@@ -232,7 +255,8 @@
                 "vigencia": "",
                 "precio": 1.24,
                 "unidades": 2,
-                "adquirido": false
+                "adquirido": false,
+                "adquirir sin oferta": true
             }
         ]
     }
